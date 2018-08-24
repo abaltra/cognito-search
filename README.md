@@ -32,7 +32,7 @@ If you need to specify an AWS profile to use, just add `--profile dev` (etc).
 
 ## Publishing Updates to PyPi
 
-For the maintainer - to publish an updated version of TFPromote, increment the version number in version.py and run the following:
+For the maintainer - to publish an updated version of cognito-search, increment the version number in version.py and run the following:
 
 ```shell
 docker build -f ./Dockerfile.buildenv -t cognito-search:build .
