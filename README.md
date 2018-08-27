@@ -14,7 +14,7 @@ $ pip install cognito-search
 ```shell
 $ cognito-search -s user-pool-name
 Cognito Search version 0.0.1
-Searching User Pool for ['test']
+Searching User Pool for ['user-pool-name']
 Reading user pools from Cognito
 ................
 { u'CreationDate': datetime.datetime(2018, 8, 24, 10, 8, 26, 994000, tzinfo=tzlocal()),
